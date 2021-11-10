@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+
+    <string name="button_text">Convert</string>
+    <string name="navlabel_weight">Weight</string>
+    <string name="navlabel_length">Length</string>
+    <string name="navlabel_time">Time</string>
+    <string name="navlabel_temp">Temp</string>
+    <string name="heading_weight_activity">Enter the value of weight in KG</string>
+    <string name="heading_length_activity">Enter the values in Metres</string>
+    <string name="heading_temp_activity">Enter the value in °C</string>
+    <string name="heading_time_activity">Enter time in Seconds</string>
+</resources>
